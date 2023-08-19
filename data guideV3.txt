@@ -42,12 +42,12 @@
 },
   "my_data":[
   {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+   "photo1":"https://iili.io/HbqT8R1.webp"},
+  {"desc2":"Standoff 2 is a thrilling and action-packed first-person shooter (FPS) game that has taken the mobile gaming world by storm","photo2":"https://iili.io/HbqTvHP.webp"},
+  {"desc3":"Developed by Axlebolt, this game builds upon the success of the original Standoff and has evolved into a must-play title for FPS enthusiasts","photo3":"https://iili.io/HbqxZJ9.webp"},
+  {"desc4":"With its stunning graphics, intense gameplay, and a vibrant online community, Standoff 2 has redefined the mobile gaming experience.","photo4":"https://iili.io/Hbqxif2.webp"},
+  {"desc5":"Standoff 2 offers a diverse range of gameplay modes to cater to every type of player","photo5":"https://iili.io/HbqxslS.webp"},
+  {"descd":"Team Deathmatch: Engage in fast-paced battles where two teams compete to reach a kill limit. Cooperation and strategy are key to victory","photod":"https://iili.io/HbqxtRe.webp"}
    ]
  
 }
